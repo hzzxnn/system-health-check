@@ -1,0 +1,11 @@
+===================================
+SYSTEM HEALTH REPORT 🖥️
+===================================
+CPU Usage:    2.8%
+Memory Usage:    62.9%
+Disk Usage (/):    94.3%
+
+Partitions:
+- C:\ mounted on C:\ [NTFS]
+
+Internet Connection: ✅ Active!
